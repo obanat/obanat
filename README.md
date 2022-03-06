@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @obanat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi
+- 👀
+- 🌱
+- 💞️
+- 📫
 
-<!---
-obanat/obanat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![image](https://user-images.githubusercontent.com/4528075/156892422-45fd7b88-1ec3-4e47-b41a-d3fd40ae28c5.png)
